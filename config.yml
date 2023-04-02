@@ -1,0 +1,7 @@
+recordingDelay: 2
+files:
+  savePath: ./recordings/
+  codec: mp4v
+cascades:
+  scaleFactor: 1.1
+  minNeighbours: 5
