@@ -1,6 +1,6 @@
 recordingDelay: 2
 files:
-  savePath: ./recordings/
+  savePath: C:\Users\aditc\dev\school_camera\recordings\
   codec: mp4v
 cascades:
   scaleFactor: 1.1
